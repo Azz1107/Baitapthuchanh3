@@ -1,0 +1,9 @@
+import 'dart:io';
+
+void printName() {
+  print("I am Pham Quoc Anh");
+}
+
+void main(List<String> args) {
+  printName();
+}
